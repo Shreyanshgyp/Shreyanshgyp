@@ -1,4 +1,3 @@
-
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Righteous&color=016EEA&size=60&center=true&vCenter=true&width=900&height=100&lines=Hello+%F0%9F%91%8B+My+Name+is+Shreyansh.;I+Am+a+Software+Developer....;Feel+Free+to+Get+in+Touch.+%F0%9F%98%84;Nice+to+Meet+You!!!...)](https://github.com/YourGitHubUsername)
 
 <h1 align="center">नमस्ते Amigo <img src="https://user-images.githubusercontent.com/74038190/214644145-264f4759-7633-441e-9d67-d8dda9d50d26.gif" width="60px" />, I'm Shreyansh Gupta 👱🏼 (☕💻💡❤️)®™</h1>
@@ -49,15 +48,18 @@
 <img title="CSS" height="40px" src="https://img.icons8.com/color/48/000000/css3.png"/> &nbsp;
 <img title="JS" height="40px" src="https://img.icons8.com/color/48/000000/javascript.png"/> &nbsp;
 <img title="Python" height="40px" src="https://img.icons8.com/color/48/000000/python.png"/> &nbsp;
-<img title="Flutter" height="40px" src="https://img.icons8.com/color/48/000000/flutter.png"/> &nbsp;
 <img title="Kotlin" height="40px" src="https://img.icons8.com/color/48/000000/kotlin.png"/> &nbsp;
+<img title="MySql" height="40px" src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white"/> &nbsp;
+<img title="TensorFlow" height="40px" src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white"/> &nbsp;
+<img title="Scikit Learn" height="40px" src="https://img.shields.io/badge/scikit--learn-%237931E4.svg?style=for-the-badge&logo=scikit-learn&logoColor=white"/> &nbsp;
+
 
 ---
 
 ## 💻 My Workspace  
 
 [![Windows 11](https://img.shields.io/badge/Windows%2011-%230078D6.svg?&style=flat-square&logo=windows&logoColor=white)](https://github.com/YourGitHubUsername)
-[![Intel Core i5](https://img.shields.io/badge/Intel-Core%20i7%2011th%20Gen-%230071C5.svg?&style=flat-square&logo=intel&logoColor=white)](https://github.com/YourGitHubUsername)
+[![Intel Core i5](https://img.shields.io/badge/Intel-Core%20i5%2013th%20Gen-%230071C5.svg?&style=flat-square&logo=intel&logoColor=white)](https://github.com/YourGitHubUsername)
 [![16GB RAM](https://img.shields.io/badge/RAM-16GB-%230071C5.svg?&style=flat-square&logoColor=white)](https://github.com/YourGitHubUsername)
 [![64 Bit System](https://img.shields.io/badge/System%20Type-64%20Bit-%230071C5.svg?&style=flat-square)](https://github.com/YourGitHubUsername)
 
@@ -65,10 +67,10 @@
 
 ## 🙋‍♂️ About Me  
 
+- 🐍 Proficient in Python for data manipulation , analysis , and modeling 🧠.  
 - 😄 Adjectives: Coder, Learner, Innovator.  
 - 🌈 I like Coding, Sports, Music, and Gaming.  
 - ⚡ Cravings: Food, Travel, and Creativity.  
-- 🌱 Currently learning Web Dev, AI/ML, and Flutter.  
 - 😐 Love/Hate Relationship with Debugging 😅.  
 - ❤️ Support Me & Follow Me on Social Media.  
 
