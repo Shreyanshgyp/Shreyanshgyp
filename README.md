@@ -16,7 +16,7 @@
   <img alt="LinkedIn" height="70px" src="https://img.icons8.com/?size=100&id=13930&format=png&color=000000" />
 </a> 
 </a>
-<a href="https://stackoverflow.com/users/yourid/shreyansh-gupta">
+<a href="https://stackoverflow.com/users/31541221/shreyansh-gupta">
   <img alt="StackOverflow" height="70px" src="https://github.com/sahilihas/README/blob/main/stack-overflow.png">
 </a>
 
