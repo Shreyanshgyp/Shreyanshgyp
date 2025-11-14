@@ -2,7 +2,7 @@
 
 <h1 align="center">नमस्ते Amigo <img src="https://user-images.githubusercontent.com/74038190/214644145-264f4759-7633-441e-9d67-d8dda9d50d26.gif" width="60px" />, I'm Shreyansh Gupta 👱🏼 (☕💻💡❤️)®™</h1>
 
-<img align='right' src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" width="370" height="400">
+<img align='right' src="[https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif](https://camo.githubusercontent.com/ea1d8f76da965e6d516eb8c5aabedda58231ef1a1b480f902a1362a04bbaa01f/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f76322f726573697a653a6669743a3637392f312a7a566e574a7479474f585f6b5549446d3663634366512e676966)" width="370" height="400">
 
 *A Student of [Computer Science and Engineering (AI & ML)](https://your-portfolio-link.com)* <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> 
 
